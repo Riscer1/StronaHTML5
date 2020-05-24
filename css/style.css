@@ -1,0 +1,20 @@
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 80px 0;
+}
+h5{
+	color: black;
+	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+body {
+  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+}
